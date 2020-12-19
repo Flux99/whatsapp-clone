@@ -1,7 +1,8 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-    //Go to your Project console on Firebase Copy & Paste here
+    //Go to your Project console on Firebase 
+    //Copy Your Config  & Paste here
   };
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
