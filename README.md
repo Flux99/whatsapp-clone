@@ -46,4 +46,8 @@
 
 ## What the app looks like
 
-![Screenshot]()
+![Screenshot_1](https://github.com/Flux99/whatsapp-clone/blob/master/screenshot/Screenshot_1.png?raw=true)
+
+![Screenshot_2](https://github.com/Flux99/whatsapp-clone/blob/master/screenshot/Screenshot_2.jpeg?raw=true)
+
+![Screenshot_3](https://github.com/Flux99/whatsapp-clone/blob/master/screenshot/Screenshot_3.png?raw=true)
