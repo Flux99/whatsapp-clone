@@ -28,7 +28,7 @@
 
 2. Create a room
 
-3. Chat
+3. Chat in an existing room
 
 ## User Stories
 
