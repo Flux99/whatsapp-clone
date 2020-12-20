@@ -1,6 +1,6 @@
 # Whatsapp Clone React App
 
-## This project was Created using React and Firebase
+#### Wanted to try new technology. **Firebase** is the one stop shop where you can get everything you need to get your Backend up & runing.Build a Real time Chat app using Firebase Realtime database.Used in authentication ,handling Database.When user creates a room or send a text its created or updated in the backend in the realtime .You can also see the last message timestamp :smile:
 
 ## How to run the app
 
